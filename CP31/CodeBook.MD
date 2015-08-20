@@ -5,11 +5,7 @@
 	<meta name="generator" content="LibreOffice 4.4.3.2 (Windows)"/>
 	<meta name="created" content="2015-08-17T13:34:58.022000000"/>
 	<meta name="changed" content="2015-08-19T21:40:45.693000000"/>
-	<style type="text/css">
-		@page { margin: 2cm }
-		p { margin-bottom: 0.25cm; line-height: 120% }
-		a:link { so-language: zxx }
-	</style>
+	
 </head>
 <body lang="el-GR" dir="ltr">
 <div title="header">
